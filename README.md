@@ -10,7 +10,7 @@
 <body>
     <header>
         <h1>SERENITY BOT</h1>
-        <p>BOLO JUBA KESARI</p>
+        <p>Here to help you with all mental needs</p>
     </header>
 
     <main>
